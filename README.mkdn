@@ -1,0 +1,25 @@
+Shooting Range
+==============
+About
+-----
+This is just a fun lil addon for creating shooting ranges.
+
+
+Features
+--------
+* Full Wiremod support
+* Lua API with hooks for gamemode/addon integration
+* (partial) Source I/O support for map integration
+
+
+Credits
+-------
+* Lex Robinson
+
+Links
+-----
+* [Workshop Version][latest]
+* [Facepunch thread][fpthread]
+
+  [latest]:   http://steamcommunity.com/sharedfiles/filedetails/?id= "Latest 'stable' release"
+  [fpthread]: http://facepunch.com/showthread.php?t=                    "Facepunch forums release thread"

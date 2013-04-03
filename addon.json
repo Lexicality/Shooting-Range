@@ -1,0 +1,17 @@
+{
+	"title"   : "Shooting Range",
+	"author"  : "Lex Robinson",
+	"contact" : "lexi@lexi.org.uk",
+	"updated" : "Apr '13",
+	"license" : "MIT",
+	"type"    : "tool",
+	"tags"    : ["fun", "build"],
+	"ignore"  :
+	[
+		"LICENSE",
+		"*.mkdn",
+		".git*",
+		"*.jpg",
+		"*.sublime*"
+	]
+}
