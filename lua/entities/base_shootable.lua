@@ -36,6 +36,7 @@ end
 function ENT:Initialize()
 	-- self:SetModel('models/props_junk/garbage_glassbottle003a.mdl');
 	-- self:SetModel("models/props_c17/canister02a.md");
+	self:PrecacheGibs();
 	self:PhysicsInit(SOLID_VPHYSICS);
 	self:SetUseType(SIMPLE_USE);
 	local phys = self:GetPhysicsObject();
